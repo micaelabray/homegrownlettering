@@ -1,0 +1,28 @@
+body {
+    background-color: #fbc210;
+}
+
+.banner {
+    height: 75%;
+    width: 75%;
+    opacity: .5;
+}
+
+.heading {
+    margin-top: 1%;
+}
+
+.carousel {
+    width: 25%;
+    height: auto;
+    margin-bottom: 1%;
+}
+
+.lettering {
+    border-radius: 50%;
+    border:1px solid black;
+}
+
+.rotate {
+    transform: rotate(90deg);
+}
