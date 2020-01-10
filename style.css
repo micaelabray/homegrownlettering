@@ -1,5 +1,5 @@
 body {
-    background-color: #fbc210;
+    /* background-color: #fbc210; */
 }
 
 .banner {
@@ -8,9 +8,9 @@ body {
     opacity: .5;
 }
 
-.heading {
+/* .heading {
     margin-top: 1%;
-}
+} */
 
 .carousel {
     width: 25%;
@@ -18,11 +18,18 @@ body {
     margin-bottom: 1%;
 }
 
-.lettering {
-    border-radius: 50%;
-    border:1px solid black;
+.row {
+    padding: 20px;
 }
 
-.rotate {
-    transform: rotate(90deg);
+.lettering {
+    border-radius: 50%;
+    border:3px solid #fbc210;
+    
 }
+
+/* .imageDiv {
+    max-width: 250px;
+    max-height: 200px;
+} */
+
