@@ -1,4 +1,4 @@
 # Homegrown Letters
-Hand Lettering by Brittney Morey
+Brittney Morey owns all photos of lettering.
 
-Website built by Micaela Bray
+Micaela Bray created the website for a fun activity.
